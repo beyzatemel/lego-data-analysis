@@ -3,10 +3,12 @@
 This analysis aims to help a company decide which LEGO® sets to sell by examining a dataset with details such as target age ranges, reviews, piece counts, themes, and difficulty levels. By identifying popular and profitable products, the company can make data-driven decisions to optimize its selection. For this analysis, price information is not used, as the focus is on selecting the best sets, not determining their pricing. First choosing which products, pricing second is more reasonable and effective.
 
 
+## Useful Links
+
+* Link to the lego dataset used in this project : https://www.kaggle.com/datasets/mterzolo/lego-sets
+* Link to the Kaggle Notebook : https://www.kaggle.com/code/beyzatemel/lego-data-analysis
 
 ## About Dataset 
-* Link to the lego dataset used in this project : https://www.kaggle.com/datasets/mterzolo/lego-sets
-  
 The dataset includes key attributes such as:  
 * ages : The recommended age range for the LEGO set.  
 * list_price : The price of the LEGO set in the corresponding country.  
