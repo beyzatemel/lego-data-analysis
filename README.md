@@ -45,7 +45,7 @@ The most important attributes for the analysis, and the reason why they are impo
 Note: Detailed explanation of these steps are available on the notebook <br> <br>
 
 * Data Preprocessing
-  * Removing unnecessary columns
+  * Removing Unnecessary Columns
   * Categorizing Data
   * Removing Duplicates
   * Handling Missing Data
@@ -57,7 +57,7 @@ Note: Detailed explanation of these steps are available on the notebook <br> <br
 
 
 
-## Why This Analysis Might Be Useful And How Does It Achieves It's Goal? 
+## Why This Analysis Might Be Useful And How Does It Achieve It's Goal? 
 Why? <br>
 It creates a solution for a spesific and detailed problem, helps a company on tactical planning : Which LEGO sets are the most profitable, popular and liked ones? 
 After deciding to start selling LEGO products, a company must search for the most suitable LEGO sets. With the help of this broad and detailed analysis, it is possible to discover customer preferences and market demands. <br> <br>
